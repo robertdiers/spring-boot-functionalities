@@ -1,0 +1,3 @@
+http://localhost:8080/greeting?name=User
+http://localhost:8080/asynctest
+http://localhost:8080/index.xhtml
